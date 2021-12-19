@@ -1,5 +1,4 @@
-#Bash Scripts
-<br>Main repository for all of my bash scripts. Instructions and examples will be found in each folder.
+Main repository for all of my bash scripts. Instructions and examples will be found in each folder.
 
 ---
 ### Table of content
