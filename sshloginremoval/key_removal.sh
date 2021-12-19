@@ -30,7 +30,7 @@ do
 		echo -e "${G}[-]${NC}Failed to connect to hostname: $hostname"
 	else 
 		echo -e "${R}[+]${NC}Succesfully connected to hostname: $hostname with username: $username"
-		conn+=( "ssh -q -T -n $username@$hostname -p18765 sed -i '/sgdev/d' ~/.ssh/authorized_keys2 " )
+		conn+=( "ssh -q -T -n $username@$hostname -p18765 sed -i '/user/d' ~/.ssh/authorized_keys2 " )
 		succ_connections=$((succ_connections+1))
 	fi
 	temp=0
