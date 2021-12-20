@@ -6,7 +6,7 @@ Script designed to run a WhoIs check on given domain and report information base
 ./domcheck.sh domain.ltd
 ```
 ### Example
-```bash
+```
 Koce@ ~:./domcheck.sh google.com
 Domain: google.com
 --------------------------------

@@ -21,7 +21,7 @@ Runs basic WordPress fixes which include: <br>
 
 ### Example
 
-```bash
+```
 Koce@gnldm1001.siteground.biz in ~/public_html:./wpfixme.sh
 Begin .htaccess for main WordPress directory fix
 .htaccess found

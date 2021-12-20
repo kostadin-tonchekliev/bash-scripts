@@ -5,7 +5,7 @@ Script designed to check and report statistics which works with the awstats insi
 Firstly select the desired installation and after that select the desired date from which to report the statistics.
 
 ### Example:
-```bash
+```
 baseos | u450-hfisk9ohgmtt@gnldm1081.siteground.biz:~$ bash awcheck.sh 
 Awstats Checker ver 1.0
 --------------------------

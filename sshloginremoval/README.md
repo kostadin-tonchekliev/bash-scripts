@@ -10,6 +10,21 @@ Stores all past and current SSH connections and allows you to check if you are s
 2. When you want to check the connections call **key_removal.sh** which will try to connect to each stored conection inside .ssh_log and report how many succesfull ones it has. At the end select if you want to disconect from them or not.
 
 ### Example
-```bash
-#to be added
+```
+Koce@07:03 PM in ~:rem_keys 
+SSH Key checker and remover
+Current stored connections: 7
+Starting key checking...
+[-]Failed to connect to hostname: pala****.com
+[-]Failed to connect to hostname: fes****.at
+[+]Succesfully connected to hostname: alwayspo****.co.uk with username: u2-vtigjkf36***
+[-]Failed to connect to hostname: radica****.com
+[-]Failed to connect to hostname: br***.io
+[-]Failed to connect to hostname: pmc****.com
+[-]Failed to connect to hostname: gnldm****.siteground.biz
+Managed to connect to 1 SSH connection/ns
+Do you want to discconnect from the connections (y/n):
+y
+[+]Connection to hostname alwayspo*****.co.uk succesfully removed
+Removal done, exiting script
 ```
