@@ -28,3 +28,4 @@ y
 [+]Connection to hostname alwayspo*****.co.uk succesfully removed
 Removal done, exiting script
 ```
+
