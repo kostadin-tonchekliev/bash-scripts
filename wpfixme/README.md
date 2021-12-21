@@ -15,7 +15,7 @@ Runs basic WordPress fixes which include: <br>
 ### Options
 
 | Option | Action |
-|--------|:--------:|
+|:------:|:------:|
 |-r      |Reverses **.htaccess** changes|
 |-d      |Deletes script|
 

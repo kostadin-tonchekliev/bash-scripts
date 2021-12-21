@@ -2,7 +2,7 @@ Various scripts designed to automate my day to day workflow and tasks
 
 ---
 
-###Scripts
+### Scripts
 
 1. `cachecl.sh` - Clears WordPress cache
 2. `dbcheck.sh` - Checks for existing WordPress applications and reports their Database details
